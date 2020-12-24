@@ -15,7 +15,7 @@ template:
 
 before:
 - type: respond
-      with: 01_first-response.md
+  with: 01_first-response.md
 
   # some actions require additional options, those should appear below `type:`
   # you can execute multiple actions in the `before` block
